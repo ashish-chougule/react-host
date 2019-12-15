@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-host/build/static/css/main.9cea1462.chunk.css",
-    "main.js": "/react-host/build/static/js/main.1f0179c2.chunk.js",
-    "main.js.map": "/react-host/build/static/js/main.1f0179c2.chunk.js.map",
-    "runtime-main.js": "/react-host/build/static/js/runtime-main.abec8859.js",
-    "runtime-main.js.map": "/react-host/build/static/js/runtime-main.abec8859.js.map",
-    "static/css/2.4004ae5c.chunk.css": "/react-host/build/static/css/2.4004ae5c.chunk.css",
-    "static/js/2.ff362699.chunk.js": "/react-host/build/static/js/2.ff362699.chunk.js",
-    "static/js/2.ff362699.chunk.js.map": "/react-host/build/static/js/2.ff362699.chunk.js.map",
-    "index.html": "/react-host/build/index.html",
-    "precache-manifest.cf672450aacb6b2a24c72d52623678b7.js": "/react-host/build/precache-manifest.cf672450aacb6b2a24c72d52623678b7.js",
-    "service-worker.js": "/react-host/build/service-worker.js",
-    "static/css/2.4004ae5c.chunk.css.map": "/react-host/build/static/css/2.4004ae5c.chunk.css.map",
-    "static/css/main.9cea1462.chunk.css.map": "/react-host/build/static/css/main.9cea1462.chunk.css.map",
-    "static/js/2.ff362699.chunk.js.LICENSE": "/react-host/build/static/js/2.ff362699.chunk.js.LICENSE",
-    "static/media/index.css": "/react-host/build/static/media/roboto-latin-900italic.ebf6d164.woff2"
+    "main.css": "/react-host/static/css/main.9cea1462.chunk.css",
+    "main.js": "/react-host/static/js/main.9a7d6b19.chunk.js",
+    "main.js.map": "/react-host/static/js/main.9a7d6b19.chunk.js.map",
+    "runtime-main.js": "/react-host/static/js/runtime-main.6915c3ab.js",
+    "runtime-main.js.map": "/react-host/static/js/runtime-main.6915c3ab.js.map",
+    "static/css/2.d1d153b9.chunk.css": "/react-host/static/css/2.d1d153b9.chunk.css",
+    "static/js/2.2cded787.chunk.js": "/react-host/static/js/2.2cded787.chunk.js",
+    "static/js/2.2cded787.chunk.js.map": "/react-host/static/js/2.2cded787.chunk.js.map",
+    "index.html": "/react-host/index.html",
+    "precache-manifest.3f385f768976c74c6d07dcc79bf3500c.js": "/react-host/precache-manifest.3f385f768976c74c6d07dcc79bf3500c.js",
+    "service-worker.js": "/react-host/service-worker.js",
+    "static/css/2.d1d153b9.chunk.css.map": "/react-host/static/css/2.d1d153b9.chunk.css.map",
+    "static/css/main.9cea1462.chunk.css.map": "/react-host/static/css/main.9cea1462.chunk.css.map",
+    "static/js/2.2cded787.chunk.js.LICENSE": "/react-host/static/js/2.2cded787.chunk.js.LICENSE",
+    "static/media/index.css": "/react-host/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.abec8859.js",
-    "static/css/2.4004ae5c.chunk.css",
-    "static/js/2.ff362699.chunk.js",
+    "static/js/runtime-main.6915c3ab.js",
+    "static/css/2.d1d153b9.chunk.css",
+    "static/js/2.2cded787.chunk.js",
     "static/css/main.9cea1462.chunk.css",
-    "static/js/main.1f0179c2.chunk.js"
+    "static/js/main.9a7d6b19.chunk.js"
   ]
 }
