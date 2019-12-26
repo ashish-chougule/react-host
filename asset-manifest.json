@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-host/static/css/main.9cea1462.chunk.css",
-    "main.js": "/react-host/static/js/main.e63d2bf3.chunk.js",
-    "main.js.map": "/react-host/static/js/main.e63d2bf3.chunk.js.map",
+    "main.css": "/react-host/static/css/main.82938bc9.chunk.css",
+    "main.js": "/react-host/static/js/main.7d1f29f6.chunk.js",
+    "main.js.map": "/react-host/static/js/main.7d1f29f6.chunk.js.map",
     "runtime-main.js": "/react-host/static/js/runtime-main.6915c3ab.js",
     "runtime-main.js.map": "/react-host/static/js/runtime-main.6915c3ab.js.map",
-    "static/css/2.d1d153b9.chunk.css": "/react-host/static/css/2.d1d153b9.chunk.css",
-    "static/js/2.1dd6d7d4.chunk.js": "/react-host/static/js/2.1dd6d7d4.chunk.js",
-    "static/js/2.1dd6d7d4.chunk.js.map": "/react-host/static/js/2.1dd6d7d4.chunk.js.map",
+    "static/css/2.6e5c8376.chunk.css": "/react-host/static/css/2.6e5c8376.chunk.css",
+    "static/js/2.6515a394.chunk.js": "/react-host/static/js/2.6515a394.chunk.js",
+    "static/js/2.6515a394.chunk.js.map": "/react-host/static/js/2.6515a394.chunk.js.map",
     "index.html": "/react-host/index.html",
-    "precache-manifest.5c4a5c50f58ea3f9c047ef1d6e3a05aa.js": "/react-host/precache-manifest.5c4a5c50f58ea3f9c047ef1d6e3a05aa.js",
+    "precache-manifest.5580e89d6e9ac54359c9deeba4fd3126.js": "/react-host/precache-manifest.5580e89d6e9ac54359c9deeba4fd3126.js",
     "service-worker.js": "/react-host/service-worker.js",
-    "static/css/2.d1d153b9.chunk.css.map": "/react-host/static/css/2.d1d153b9.chunk.css.map",
-    "static/css/main.9cea1462.chunk.css.map": "/react-host/static/css/main.9cea1462.chunk.css.map",
-    "static/js/2.1dd6d7d4.chunk.js.LICENSE": "/react-host/static/js/2.1dd6d7d4.chunk.js.LICENSE",
+    "static/css/2.6e5c8376.chunk.css.map": "/react-host/static/css/2.6e5c8376.chunk.css.map",
+    "static/css/main.82938bc9.chunk.css.map": "/react-host/static/css/main.82938bc9.chunk.css.map",
+    "static/js/2.6515a394.chunk.js.LICENSE": "/react-host/static/js/2.6515a394.chunk.js.LICENSE",
     "static/media/index.css": "/react-host/static/media/roboto-latin-900italic.ebf6d164.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.6915c3ab.js",
-    "static/css/2.d1d153b9.chunk.css",
-    "static/js/2.1dd6d7d4.chunk.js",
-    "static/css/main.9cea1462.chunk.css",
-    "static/js/main.e63d2bf3.chunk.js"
+    "static/css/2.6e5c8376.chunk.css",
+    "static/js/2.6515a394.chunk.js",
+    "static/css/main.82938bc9.chunk.css",
+    "static/js/main.7d1f29f6.chunk.js"
   ]
 }
